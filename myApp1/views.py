@@ -16,16 +16,4 @@ class Hello(View):
 
 def test(View):
     pass
-
-
-
-def test(View):
-    pass
-def test(View):
-    pass
-def test(View):
-    pass
-def test(View):
-    pass
-def test(View):
-    pass
+    return "hello!!!!!!!!!!!!22222"
