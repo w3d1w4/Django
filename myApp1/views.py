@@ -13,3 +13,6 @@ class Hello(View):
         return HttpResponse("hello POST")
     def delete(self,request):
         return HttpResponse("hello DELETE")
+
+def test(View):
+    pass
