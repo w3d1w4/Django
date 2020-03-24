@@ -16,3 +16,16 @@ class Hello(View):
 
 def test(View):
     pass
+
+
+
+def test(View):
+    pass
+def test(View):
+    pass
+def test(View):
+    pass
+def test(View):
+    pass
+def test(View):
+    pass
